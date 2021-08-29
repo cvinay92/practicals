@@ -23,7 +23,7 @@ initTodo = [];
 
 
 const onDelete =(todo)=>{
-  console.log("I am on delete of todo", todo)
+  console.log("hello, I am on delete of todo", todo)
   //Deleting this way in react does not work
   //let index = todos.indexOf(todo);
   //todos.splice(index, 1);
